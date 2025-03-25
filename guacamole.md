@@ -5,4 +5,4 @@
 * salt
 * lime
 ## Instructions
-* put avocado into a bowl and try doing it again
+* put two avocados into a big bowl and mix
